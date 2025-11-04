@@ -73,7 +73,7 @@ Here's a minimal PoC and steps to reproduce:
 
 ---
 
-## 6. Скриншоты 
+## 6. Screenshots 
 
 - `./screenshots/script.png` — payload on the website in the comment input field
 - `./screenshots/credentials.png` — credentials in Burp Collaborator
