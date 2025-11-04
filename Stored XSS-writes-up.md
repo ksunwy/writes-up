@@ -102,7 +102,7 @@ Here's a minimal PoC and steps to reproduce:
 
 ---
 
-## 9. References / Additional Materials
+## 8. References / Additional Materials
 
 - OWASP XSS Prevention Cheat Sheet
 - PortSwigger Web Security Academy — Cross-site scripting (XSS)
@@ -110,7 +110,7 @@ Here's a minimal PoC and steps to reproduce:
 
 ---
 
-## 10. Notes / Ethical Disclaimers
+## 9. Notes / Ethical Disclaimers
 
 - This PoC was created under test conditions. Do not use this code against systems without explicit permission from the owner (bug bounty program / signed engagement / pentest scope).
 
